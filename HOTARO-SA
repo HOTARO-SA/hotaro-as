@@ -1,0 +1,13 @@
+Origin: hotaro-as
+
+Label: hotaro-as
+
+Suite: stable
+
+Version: 1.0
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: سورس هوتارو
